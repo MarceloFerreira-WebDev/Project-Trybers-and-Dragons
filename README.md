@@ -1,13 +1,12 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## Breve Descrição do Projeto
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Este Projeto possui uma arquitetura usando TypeScript e SOLID para criar classes que representam o início de uma estrutura de um jogo. Apresentando diversas raças, classes e até uma batalha simples entre dois lutadores. Aqui eu aprendi sobre os princípios SOLID, e foi um projeto que me marcou muito por introduzir essa incrível forma de codar super organizada usando POO e SOLID.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Tecnologias utilizadas no seu desenvolvimento
+
+1. TypeScript
+
+
+## Arquivos vindos da Trybe
+
+Neste projeto, as pastas configurações do Linter, ts e package.json já vieram pré-configurados da Trybe
